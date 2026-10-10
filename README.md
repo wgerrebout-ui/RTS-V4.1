@@ -1,2 +1,2 @@
 # RTS-V4.1
-stop bmp
+personnages et batiments dessinés sans image bmp
